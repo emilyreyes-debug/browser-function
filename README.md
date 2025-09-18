@@ -1,3 +1,3 @@
 # browser-function
 How does a browser work?
-short responses
+these are short responses and a visual image
